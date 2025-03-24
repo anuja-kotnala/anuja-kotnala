@@ -62,5 +62,5 @@
 
 ### 📫 Connect With Me
 
-🔗 LinkedIn: www.linkedin.com/in/anuja-kotnala-aa5245289
+🔗 LinkedIn: www.linkedin.com/in/anujakotnala
 
