@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech (CSE) | 2nd Year**
-- 🔹 Currently learning **Data Structures & Algorithms (DSA) **and **Frontend Development**
+- 🔹 Currently learning **Data Structures & Algorithms (DSA)** and **Frontend Development**
 - 🎨 **Sub-Head of Design at Dharohar – The Heritage Club**
 - 🌱 Passionate about **building real-world projects** and contributing to **open-source**
 - 🎯 Looking for **internships and collaboration opportunities**
