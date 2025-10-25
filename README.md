@@ -43,14 +43,6 @@
 &nbsp;  
 &nbsp;  
 
-**🎨 Design Tools**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50"/> &nbsp; **Figma**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Photoshop" width="50"/> &nbsp; **Photoshop**  
-
-&nbsp;  
-&nbsp;  
-
-
 ---
 
 ### 📌 What I'm Working On
